@@ -1,6 +1,6 @@
 ### Hello, I'm Aiden
 
-+ 🔭 I’m currently working on [noMail](https://github.com/aidencullo/nomail/)
++ 🔭 I’m currently working on putting up [trueorfalse](https://github.com/aidencullo/trueorfalse.online)
 + 🌱 I’m currently learning Haskell and Rust
 + 👯 I’m looking to collaborate on ML and/or webdev
 + ⚡ Fun fact: hablo español et je vais apprendre francais
