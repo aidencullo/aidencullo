@@ -13,3 +13,4 @@ drop me a line -- my whole name and the largest email provider in the world..
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidencullo)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aidencullo&hide=contribs,prs)
