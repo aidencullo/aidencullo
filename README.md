@@ -5,4 +5,7 @@
 + 👯 I’m looking to collaborate on ML and/or webdev projects!
 + ⚡ Fun fact: hablo español et je vais apprendre francais!!!
 
+
+
+
 + drop me a line -- my whole name and the largest email provider in the world..
